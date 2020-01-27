@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CertificacionFinalApplication<Certificacion_final>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.certificacion.CertificacionFinalApplication",
+            "projectName": "Certificacion_final",
+            "args": ""
+        }
+    ]
+}

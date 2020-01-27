@@ -1,0 +1,5 @@
+package com.certificacion.repository;
+
+public class IServicioRepository {
+
+}
